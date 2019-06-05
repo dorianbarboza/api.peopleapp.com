@@ -1,0 +1,46 @@
+#button {
+    padding: 0;
+    padding-left: 250px;
+    
+    }
+     
+   #button li {
+    display: inline;
+    }
+
+    #button li a {
+        font-family: Arial;
+        font-size: 15px;
+        text-decoration: none;
+        float: left;
+        padding: 10px;
+        background-color: #2175bc;
+        color: #fff;
+        width: 150px;
+        text-align: center;
+        }
+
+    
+        .centrado{
+            text-align: center;
+        }
+   
+        .tabla{
+            width: 800px;
+            text-align: center;
+            margin: 40px auto;
+            
+        }
+
+        table{
+            width: 100%;
+        }
+
+        .admin{
+            padding-left: 265px;
+        }
+
+
+        
+
+        
